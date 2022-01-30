@@ -16,7 +16,7 @@ Some of the things I'm working on right now:
 
 ## PHP-FIG
 
-I'm also proudly serving as one of the secretaries of the [PHP-FIG](https://www.php-fig.org/), or Framework Interoperability Group, a group advancing standards that build a common foundation upon which libraries can build that's easily understood and interoperable. You may recognize them from the PHP Standards Recommendations, or PSRs, they issue, like PSR-4 (autoloading), PSR-12 (code style), PSR-7 (HTTP request and response messages), and more. My own applications make heavy use of PSR-supporting libraries.
+The AzuraCast project is a proud member project of (and I am the Project Representative for AzuraCast in) the [PHP-FIG](https://www.php-fig.org/), or Framework Interoperability Group, a group advancing standards that build a common foundation upon which libraries can build that's easily understood and interoperable. You may recognize them from the PHP Standards Recommendations, or PSRs, they issue, like PSR-4 (autoloading), PSR-12 (code style), PSR-7 (HTTP request and response messages), and more. My own applications make heavy use of PSR-supporting libraries.
 
 ## Support Me
 
