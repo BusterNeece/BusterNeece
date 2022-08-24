@@ -1,7 +1,7 @@
 # Buster Neece
 
 - 😄 Pronouns: he/they
-- 💬 How to reach me: [Twitter](https://twitter.com/slvreagle23), [E-mail](buster@busterneece.com)
+- 💬 How to reach me: [Twitter](https://twitter.com/busterneece), [E-mail](buster@busterneece.com)
 
 Hello! I'm Buster Neece, a senior web application developer with a long background of building secure, modern, accessible web applications. The bulk of my experience is in the PHP language, though I'm increasingly transitioning into building frontend applications (primarily with VueJS) and configuring and using DevOps tools like Ansible and Docker.
 
