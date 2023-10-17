@@ -1,7 +1,7 @@
 # Buster Neece
 
 - 😄 Pronouns: he/they
-- 💬 How to reach me: [Twitter](https://twitter.com/busterneece), [E-mail](buster@busterneece.com), <a rel="me" href="https://phpc.social/@BusterNeece">Mastodon</a>
+- 💬 How to reach me: <a rel="me" href="https://phpc.social/@BusterNeece">Mastodon</a>, [E-mail](buster@busterneece.com)
 
 Hello! I'm Buster Neece, a senior web application developer with a long background of building secure, modern, accessible web applications. The bulk of my experience is in the PHP language, though I'm increasingly transitioning into building frontend applications (primarily with VueJS) and configuring and using DevOps tools like Ansible and Docker.
 
